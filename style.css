@@ -48,7 +48,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 0;
+  padding: 15px 0;
   }
   
   .logo {
@@ -818,6 +818,10 @@
   .hero-buttons {
       justify-content: center;
   }
+
+  .nav-container {
+    padding: 5px 0; /* Padding reduzido para mobile */
+  }
   }
   
   @media (max-width: 768px) {
@@ -862,6 +866,10 @@
   .contact-info {
       padding: 30px 20px;
   }
+
+  .nav-container {
+    padding: 5px 0; /* Padding reduzido para mobile */
+  }
   }
   
   @media (max-width: 480px) {
@@ -886,5 +894,9 @@
       width: 30px;
       height: 30px;
       font-size: 14px;
+  }
+
+  .nav-container {
+    padding: 5px 0; /* Padding reduzido para mobile */
   }
   }
