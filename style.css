@@ -189,7 +189,7 @@
   }
   
   .whatsapp-btn {
-  background-color: #25D366;
+  background-color: #81c784;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -201,7 +201,7 @@
   }
   
   .whatsapp-btn:hover {
-  background-color: #1da851;
+  background-color: #81c784;
   color: var(--white);
   }
   
@@ -692,7 +692,7 @@
   }
   
   .contact-btn:hover {
-  background-color: #1da851;
+  background-color: #81c784;
   color: var(--white);
   }
   
